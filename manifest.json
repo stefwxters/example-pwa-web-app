@@ -1,0 +1,20 @@
+{
+  "name": "Simple PWA Example",
+  "short_name": "PWA Example",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#3f87a6",
+  "theme_color": "#3498db",
+  "icons": [
+    {
+      "src": "https://cdn.glitch.global/d26941d3-1be3-47ac-9ebf-83feeee34f3c%2Ficon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.glitch.global/d26941d3-1be3-47ac-9ebf-83feeee34f3c%2Ficon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
